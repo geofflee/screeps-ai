@@ -1,0 +1,18 @@
+{
+  "name": "screeps-ai",
+  "version": "1.0.0",
+  "description": "Screeps AI for Geofflee.",
+  "main": "src/main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "screeps"
+  ],
+  "author": "geoffreyj.lee@gmail.com",
+  "license": "MIT"
+}
