@@ -23,3 +23,7 @@ test('array', () => {
 test('object', () => {
   expect(typeOf({})).toBe('object');
 });
+
+test('function', () => {
+  expect(typeOf(() => {})).toBe('function');
+});
